@@ -5,8 +5,8 @@
 - - -
 ### User Instructions
 * Clone the repository: git clone https://github.com/Vincent-glitch/Python-Banking-and-Polling.git
-* Open and execute [Financial Analysis Main](notebooks/PyBankCode.ipynb) file.
-* Open and execute [Election Analysis Main](notebooks/PyPollCode.ipynb) file.
+* Open and execute the cells of the [Financial Analysis Main](notebooks/PyBankCode.ipynb) file.
+* Open and execute the cells of the [Election Analysis Main](notebooks/PyPollCode.ipynb) file.
 - - -
 # Background
 These scripts analyze a fictious company's financial data, and a ficticious town's election data.
