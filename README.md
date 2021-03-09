@@ -50,12 +50,3 @@ O'Tooley: 3.000% (105630)
 Winner: Khan
 -------------------------
 ```
-### Tech Stack
-* Python
-* Jupter Notebook
-
-### User Instructions
-* Clone the repository: git clone https://github.com/Vincent-glitch/Python-Banking-and-Polling.git
-* Open and execute [Financial Analysis Main](Financial_Analysis/Main.py) file.
-* Open and execute [Election Analysis Main](Election_Analysis/Main.py) file.
- 
